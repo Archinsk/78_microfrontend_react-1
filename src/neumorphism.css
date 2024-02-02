@@ -1,0 +1,37 @@
+body {
+    background-color: #E4E8F0;
+    color: #6C757D;
+}
+
+.header {
+    background-color: #797BEC;
+}
+
+.header .navbar {
+    padding-top: 0.6875rem;
+    padding-bottom: 0.6875rem;
+}
+
+.header .navbar-brand-name {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+.header .navbar-brand-image {
+    height: 3rem;
+    width: 3rem;
+}
+
+.card-field {
+    padding: 2rem;
+    border-radius: 19px;
+    box-shadow: 4px 4px 8px 0px rgba(0, 4, 12, 0.25), -8px -8px 8px 0px rgba(255, 255, 255, 0.5), -4px -4px 4px 0px rgba(255, 255, 255, 0.5), -1px -1px 0px 1px rgb(255, 255, 255);
+    background: rgb(232, 236, 244);
+    transition: all ease-in-out 0.15s;
+    cursor: pointer;
+}
+
+.card-field:hover {
+    box-shadow: 2px 2px 4px 0px rgba(0, 4, 12, 0.25), -4px -4px 4px 0px rgba(255, 255, 255, 0.5), -2px -2px 2px 0px rgba(255, 255, 255, 0.5), -1px -1px 0px 1px rgb(255, 255, 255);
+    background: rgb(230, 234, 242);
+}

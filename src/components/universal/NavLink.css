@@ -1,0 +1,10 @@
+.nav-link {
+    padding-top: 0.4375rem;
+    padding-bottom: 0.4375rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link .icon+* {
+    margin-left: 0.5rem;
+}

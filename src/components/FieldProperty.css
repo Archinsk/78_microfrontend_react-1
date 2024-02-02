@@ -1,0 +1,13 @@
+.field-property {
+    margin-bottom: 0.75rem;
+}
+
+.property-title {
+    font-weight: 300;
+    font-size: 0.875rem;
+    color: #969CA1;
+}
+
+.property-value {
+    font-weight: 400;
+}

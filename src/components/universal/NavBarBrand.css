@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 0.875rem;
+    white-space: normal;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand-image {
+    height: 1.875rem;
+    width: 1.875rem;
+}
+
+.navbar-brand-name {
+    margin-left: 0.5rem;
+}

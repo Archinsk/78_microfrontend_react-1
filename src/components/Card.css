@@ -1,0 +1,3 @@
+.card-field>*:first-child .field-property .property-value {
+    font-weight: bold;
+}
